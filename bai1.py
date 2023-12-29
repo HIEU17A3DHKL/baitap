@@ -5,7 +5,7 @@ def so_nguyen_to(n):
         return False
     for i in range(2, n):
         if n % i:
-            flag = False
+            flag = Flase
     return flag
 
 # hàm kiểm tra số chính phương
